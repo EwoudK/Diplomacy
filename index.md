@@ -1,1 +1,1 @@
-<img src="diplomacy.png" alt="Start" height="800" width="1005"/>
+<img src="diplomacy.png" alt="map" height="800" width="1005"/>
