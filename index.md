@@ -1,4 +1,4 @@
-Moves:\
+Moves:  \
 Austria\
 F Tri-Alb succeeded\
 A Vie-Bud succeeded\
@@ -18,6 +18,5 @@ A War-Pru succeeded\
 Turkey\
 A Con-Bul succeeded\
 A Smy-Con succeeded\
-F Ank-Smy did not succeed\
-
+F Ank-Smy did not succeed  
 <img src="diplomacySpring1901.png" alt="map" height="800" width="1005"/>
