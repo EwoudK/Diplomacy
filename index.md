@@ -41,4 +41,4 @@ A Con-Bul did not succeed;
 A Bul-Gre did not succeed
 
 
-<img src="diplomacyFall1901.png" alt="map" height="800" width="1005"/>
+<img src="diplomacyWinter1901.png" alt="map" height="800" width="1005"/>
